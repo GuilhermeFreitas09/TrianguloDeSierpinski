@@ -1,5 +1,5 @@
 # TrianguloDeSierpinski
-O seguinte programa foi escrito em C. Nele, utilizo alocação dinâmica de memória e recursividade para gerar o Triângulo de Sierpinski com 2^(N) caracteres de altura e P fractais.
+Problema retirado da disciplina MC102, ministrada na UNICAMP no segundo semestre de 2019. Nele, utilizo alocação dinâmica de memória e recursividade para gerar o Triângulo de Sierpinski com 2^(N) caracteres de altura e P fractais.
 
 Exemplo:
 
