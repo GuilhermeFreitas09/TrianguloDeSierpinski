@@ -10,7 +10,7 @@ int main(void)
   /*
     N: altura do triângulo base será 2^(N)
     P: número de fractais
-    charactere: qualquer caractere do teclado
+    caractere: qualquer caractere do teclado
   */
 
   printf("Escolha N, P e caractere:\n"); 
